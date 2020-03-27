@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cs474.testCases" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-03-27T22:50:20" hostname="pwangdeMacBook-Pro.local" time="0.354">
+  <properties/>
+  <testcase name="testCase1" classname="com.cs474.testCases" time="0.093"/>
+  <testcase name="testCase2" classname="com.cs474.testCases" time="0.001"/>
+  <testcase name="testCase3" classname="com.cs474.testCases" time="0.0"/>
+  <testcase name="testCase4" classname="com.cs474.testCases" time="0.001"/>
+  <testcase name="testCase5" classname="com.cs474.testCases" time="0.001"/>
+  <testcase name="testCase6" classname="com.cs474.testCases" time="0.001"/>
+  <testcase name="testCase7" classname="com.cs474.testCases" time="0.0"/>
+  <testcase name="testCase8" classname="com.cs474.testCases" time="0.001"/>
+  <testcase name="testCase9" classname="com.cs474.testCases" time="0.246"/>
+  <testcase name="testCase10" classname="com.cs474.testCases" time="0.008"/>
+  <system-out><![CDATA[test
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/Users/pwang/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-log4j12/1.7.25/110cefe2df103412849d72ef7a67e4e91e4266b4/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/Users/pwang/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.3.3/4c54deba9ff34a615b3072cd2def3558ff462987/ideaIC-2019.3.3/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+]]></system-err>
+</testsuite>

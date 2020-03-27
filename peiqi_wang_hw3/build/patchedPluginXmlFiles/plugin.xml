@@ -1,0 +1,18 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="193.6494" until-build="193.*"/>
+  <id>com.pwang.cs474.pwang53_hw2</id>
+  <name>com.pwang.cs474.pwang53_hw2</name>
+  <vendor email="" url="">pwang53_hw2</vendor>
+  <description>It is the plugin for cs 474 hw3. To create a plugin for the code generator.</description>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <action id="com.cs474.CodeGeneratorAction" class="com.cs474.CodeGeneratorAction" text="DesignPatternGenerator" description="DesignPatternGenerator">
+      <add-to-group group-id="ToolsMenu" anchor="first"/>
+    </action>
+  </actions>
+</idea-plugin>

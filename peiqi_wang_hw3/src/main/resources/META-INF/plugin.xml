@@ -1,0 +1,29 @@
+<idea-plugin>
+    <id>com.pwang.cs474.pwang53_hw2</id>
+    <name>com.pwang.cs474.pwang53_hw2</name>
+    <vendor email="" url="">pwang53_hw2</vendor>
+
+    <description>It is the plugin for cs 474 hw3. To create a plugin for the code generator.</description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+<!--        <completion.contributor-->
+<!--                implementationClass="com.cs474.CodeGeneratorContributor"-->
+<!--                language="all"/>-->
+    </extensions>
+
+    <actions>
+        <!-- This action is called Design Pattern Generator
+             It is used to generate 8 different design pattern
+             and create the related java file in the src folder
+             of your java project-->
+        <action id="com.cs474.CodeGeneratorAction" class="com.cs474.CodeGeneratorAction" text="DesignPatternGenerator"
+                description="DesignPatternGenerator">
+            <add-to-group group-id="ToolsMenu" anchor="first"/>
+        </action>
+    </actions>
+</idea-plugin>

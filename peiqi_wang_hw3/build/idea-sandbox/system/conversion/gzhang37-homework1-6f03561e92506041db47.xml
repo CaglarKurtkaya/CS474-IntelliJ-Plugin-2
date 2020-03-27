@@ -1,0 +1,17 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="/Users/pwang/Desktop/gzhang37-homework1-6f03561e9250/.idea/misc.xml" timestamp="1583621529316" />
+    <file path="/Users/pwang/Desktop/gzhang37-homework1-6f03561e9250/.idea/gradle.xml" timestamp="1583635665507" />
+    <file path="/Users/pwang/Desktop/gzhang37-homework1-6f03561e9250/.idea/jarRepositories.xml" timestamp="1583622163301" />
+    <file path="/Users/pwang/Desktop/gzhang37-homework1-6f03561e9250/.idea/modules.xml" timestamp="1583635665512" />
+    <file path="/Users/pwang/Desktop/gzhang37-homework1-6f03561e9250/.idea/workspace.xml" timestamp="1583661178115" />
+    <file path="/Users/pwang/Desktop/gzhang37-homework1-6f03561e9250/.idea/gzhang37-homework1-6f03561e9250.iml" timestamp="1583635665501" />
+  </project-files>
+</conversion>
