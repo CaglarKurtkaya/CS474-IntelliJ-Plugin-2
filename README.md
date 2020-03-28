@@ -6,3 +6,27 @@
   ![runIde.jpg](https://bitbucket.org/repo/BkzXg4b/images/3360210814-runIde.jpg)
   
 **_2.This will open a new IntelliJ IDEA. Create a new gradle java project._**
+
+![gradleJava.png](https://bitbucket.org/repo/BkzXg4b/images/3897828059-gradleJava.png)
+
+**_3.The plugin "Design Pattern Plugin" will be on the right side, below gralde tool window._**
+
+**_4.Click on Design Pattern Plugin. It will open a tool window with 8 buttons representing each design patterns._**
+
+**_5.Click on any design pattern you wish to generate_**
+
+**_6.After you click on the button, a new dialog wapper will be prompt to get user inputs for class name, product type, product name and package name._**
+
+**_7.For some design patterns it will only ask class name and package name_**
+
+**_8.When you are done click on ok and the plugin will generate the code in src/main/java folder_**
+
+**_Example inputs and output:_**
+
+**_Click on Abstact Factory button enter "MyFactory" for class name, "Bank" for product type, "Chase" for product name and "AFDP" for package name without the quotes_**
+
+**_then click OK._**
+
+![dialogWrapperExample.png](https://bitbucket.org/repo/BkzXg4b/images/3199366282-dialogWrapperExample.png)
+
+ **_The files will be in src/main/java/AFDP_**
