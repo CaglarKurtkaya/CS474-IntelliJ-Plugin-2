@@ -4,3 +4,5 @@
   **_Navigate to Task/intellij folder then clik on runIde._**
   
   ![runIde.jpg](https://bitbucket.org/repo/BkzXg4b/images/3360210814-runIde.jpg)
+  
+**_2.This will open a new IntelliJ IDEA. Create a new gradle java project._**
