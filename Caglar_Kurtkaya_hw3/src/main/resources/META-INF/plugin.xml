@@ -1,0 +1,25 @@
+<idea-plugin>
+    <id>org.hw3plugin.Caglar_Kurtkaya_hw3</id>
+    <name>DesignPatternPlugIn</name>
+    <vendor email="ckurtk2@uic.edu" >Caglar Kurtkaya</vendor>
+    <version>1.0-SNAPSHOT</version>
+
+    <description><![CDATA[
+    This is a design pattern code generator plug in for Java developers.<br>
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.java</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <toolWindow id="Design Pattern Plugin" anchor="right"
+                    factoryClass="org.hw3plugin.DesignPatternGenerator.toolWindow.MyToolWindowFactory" />
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>

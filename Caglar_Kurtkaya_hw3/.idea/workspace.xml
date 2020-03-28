@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a069f76-7b43-4ccd-8958-7842cee530fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../Caglar_Kurtkaya_hw1">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/Caglar_Kurtkaya_hw1">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../Caglar_Kurtkaya_hw1">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/Caglar_Kurtkaya_hw1.main">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="intellij" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Caglar_Kurtkaya_hw2" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YmRb5NU3p5ozlOO7ejmd0tFb0A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="left" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE" value="right" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="254" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\c_dia\IdeaProjects\Caglar_Kurtkaya_hw2\src\main\resources" />
+      <recent name="C:\Users\c_dia\IdeaProjects\Caglar_Kurtkaya_hw2\src\main\resources\META-INF" />
+      <recent name="C:\Users\c_dia\IdeaProjects\Caglar_Kurtkaya_hw2\src\main\java\toolWindow" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Caglar_Kurtkaya_hw2 [clean]">
+    <configuration name="ASA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hw3plugin.DesignPatternGenerator.toolWindow.ASA" />
+      <module name="Caglar_Kurtkaya_hw3.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hw3plugin.DesignPatternGenerator.toolWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DpGenerate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hw3plugin.DesignPatternGenerator.toolWindow.DpGenerate" />
+      <module name="Caglar_Kurtkaya_hw3.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hw3plugin.DesignPatternGenerator.toolWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Caglar_Kurtkaya_hw2 [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Caglar_Kurtkaya_hw2 [help]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="help" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Caglar_Kurtkaya_hw2 [runIde]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ASA" />
+        <item itemvalue="Application.DpGenerate" />
+        <item itemvalue="Gradle.Caglar_Kurtkaya_hw2 [clean]" />
+        <item itemvalue="Gradle.Caglar_Kurtkaya_hw2 [runIde]" />
+        <item itemvalue="Gradle.Caglar_Kurtkaya_hw2 [help]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a069f76-7b43-4ccd-8958-7842cee530fc" name="Default Changelist" comment="" />
+      <created>1583545851494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583545851494</updated>
+      <workItem from="1583545855646" duration="13281000" />
+      <workItem from="1583606089508" duration="7915000" />
+      <workItem from="1583625559707" duration="10082000" />
+      <workItem from="1583635796163" duration="23023000" />
+      <workItem from="1583663069152" duration="954000" />
+      <workItem from="1583686865926" duration="209000" />
+      <workItem from="1583713701128" duration="19298000" />
+      <workItem from="1584039183714" duration="438000" />
+      <workItem from="1584040027913" duration="1386000" />
+      <workItem from="1584041445950" duration="564000" />
+      <workItem from="1584042035777" duration="13458000" />
+      <workItem from="1584057558933" duration="102000" />
+      <workItem from="1584058920856" duration="54000" />
+      <workItem from="1584060050411" duration="902000" />
+      <workItem from="1584061371449" duration="622000" />
+      <workItem from="1585256289097" duration="5363000" />
+      <workItem from="1585262232729" duration="78000" />
+      <workItem from="1585262337554" duration="2437000" />
+      <workItem from="1585264927103" duration="648000" />
+      <workItem from="1585265609311" duration="430000" />
+      <workItem from="1585266069658" duration="462000" />
+      <workItem from="1585266558677" duration="1263000" />
+      <workItem from="1585267930006" duration="10531000" />
+      <workItem from="1585344554331" duration="13582000" />
+      <workItem from="1585358490320" duration="1632000" />
+      <workItem from="1585360202534" duration="402000" />
+      <workItem from="1585360649184" duration="6564000" />
+      <workItem from="1585423839294" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="178" key="#Project_Structure" timestamp="1584053862817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1584053862817" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583653011343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583653011343" />
+    <state x="1245" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1585351270452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585351270452" />
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583730171752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583730171752" />
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1583615548563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583615548563" />
+    <state x="734" y="211" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1583634830853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="211" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583634830853" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585267807816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585267807816" />
+    <state x="609" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583650588831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="609" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583650588831" />
+    <state x="645" y="379" width="629" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583631757326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="379" width="629" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1583631757326" />
+    <state x="616" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585345312220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585345312220" />
+    <state x="834" y="407" width="285" height="225" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff" timestamp="1583558615509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="834" y="407" width="285" height="225" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff/0.0.1920.1040@0.0.1920.1040" timestamp="1583558615509" />
+    <state x="623" y="369" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1585266981539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="369" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585266981539" />
+    <state x="781" y="249" key="DetectedRootsChooserDialog" timestamp="1583626608295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="249" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583626608295" />
+    <state x="694" y="282" key="EnvironmentVariablesDialog" timestamp="1583652953557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="282" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583652953557" />
+    <state x="1063" y="242" key="FileChooserDialogImpl" timestamp="1585276964452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1063" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585276964452" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1585423960279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1458" height="278" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1583637931968" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585423960279" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1585423960278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1458" height="278" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1583637931968" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585423960278" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1585423960278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1458" height="278" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1583637931967" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585423960278" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1585423960278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1458" height="278" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1583637931968" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585423960278" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585368120857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585368120857" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1585368120857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585368120857" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1585368120857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585368120857" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1585368120857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585368120857" />
+    <state x="1009" y="213" key="GuiDesigner.FormSource.Dialog" timestamp="1583606850986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1009" y="213" key="GuiDesigner.FormSource.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583606850986" />
+    <state x="274" y="189" width="1238" height="851" key="SettingsEditor" timestamp="1585360406815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="424" y="100" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1583636235048" />
+    <state x="274" y="189" width="1238" height="851" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585360406815" />
+    <state x="1136" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585423841384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="888" y="318" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1583686865322" />
+    <state x="1136" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585423841384" />
+    <state x="597" y="508" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585266979542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="597" y="508" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1585266979542" />
+    <state x="730" y="401" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1583615549538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="401" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583615549538" />
+    <state x="519" y="189" width="737" height="804" key="find.popup" timestamp="1583717118432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="519" y="189" width="737" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583717118432" />
+    <state x="342" y="132" key="new project wizard" timestamp="1583626321004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="132" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583626321004" />
+    <state x="1046" y="296" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583559089470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1046" y="296" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583559089470" />
+  </component>
+</project>
