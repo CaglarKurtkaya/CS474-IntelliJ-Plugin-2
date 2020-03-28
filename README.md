@@ -30,3 +30,17 @@
 ![dialogWrapperExample.png](https://bitbucket.org/repo/BkzXg4b/images/3199366282-dialogWrapperExample.png)
 
  **_The files will be in src/main/java/AFDP_**
+ 
+ ![outputFolder.png](https://bitbucket.org/repo/BkzXg4b/images/691362342-outputFolder.png)
+ 
+ **_To test new name clash checker functionality try to generate new files with existing java file name in the project_**
+ 
+ **_It will change the color of the TextField to red and it will prompt an error message_**
+ 
+ **_It also disables the OK button until a new name that does not cause name clash is given_**
+ 
+ ![errorPrompt.png](https://bitbucket.org/repo/BkzXg4b/images/3888179847-errorPrompt.png)
+ 
+ **_When you change the name to something that does not cause name clash error, you will be able generate new files._**
+ 
+ ![errorSolved.png](https://bitbucket.org/repo/BkzXg4b/images/3955376955-errorSolved.png)
