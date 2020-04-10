@@ -1,0 +1,8 @@
+Hello Caglar,
+
+Your Hw3 is graded and your total grade is 7.5%
+
+-0.5%: Missing concrete unit tests
+
+Regards,
+Mohammed Siddiq
